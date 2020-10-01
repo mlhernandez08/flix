@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  flix
 //
-//  Created by Jeniffer  on 9/25/20.
+//  Created by Marvin on 9/25/20.
 //  Copyright © 2020 Codepath. All rights reserved.
 //
 
